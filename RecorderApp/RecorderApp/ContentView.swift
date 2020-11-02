@@ -39,6 +39,7 @@ struct ContentView: View {
                 }
             }
             .navigationTitle("Voice recorder")
+            .navigationBarItems(trailing: EditButton())
             .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
 
         }
