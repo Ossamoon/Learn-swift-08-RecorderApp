@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B13CBB5A2550196B00BAC727 /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13CBB592550196B00BAC727 /* AudioPlayer.swift */; };
 		B180E9ED254E990E0027031B /* RecorderAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B180E9EC254E990E0027031B /* RecorderAppApp.swift */; };
 		B180E9EF254E990E0027031B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B180E9EE254E990E0027031B /* ContentView.swift */; };
 		B180E9F1254E99100027031B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B180E9F0254E99100027031B /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B13CBB592550196B00BAC727 /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
 		B180E9E9254E990E0027031B /* RecorderApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecorderApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B180E9EC254E990E0027031B /* RecorderAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecorderAppApp.swift; sourceTree = "<group>"; };
 		B180E9EE254E990E0027031B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			children = (
 				B180E9EC254E990E0027031B /* RecorderAppApp.swift */,
 				B180E9EE254E990E0027031B /* ContentView.swift */,
+				B13CBB592550196B00BAC727 /* AudioPlayer.swift */,
 				B180EA00254EA6C40027031B /* RecordingsList.swift */,
 				B180EA07254EE4C90027031B /* RecordingDataModel.swift */,
 				B180E9FC254E99500027031B /* AudioRecorder.swift */,
@@ -156,6 +159,7 @@
 				B180EA05254EDDC10027031B /* Extensions.swift in Sources */,
 				B180EA0B254EE8CD0027031B /* Helper.swift in Sources */,
 				B180E9EF254E990E0027031B /* ContentView.swift in Sources */,
+				B13CBB5A2550196B00BAC727 /* AudioPlayer.swift in Sources */,
 				B180E9FD254E99500027031B /* AudioRecorder.swift in Sources */,
 				B180EA08254EE4C90027031B /* RecordingDataModel.swift in Sources */,
 				B180E9ED254E990E0027031B /* RecorderAppApp.swift in Sources */,

@@ -39,7 +39,7 @@ struct ContentView: View {
                 }
             }
             .navigationTitle("Voice recorder")
-            .preferredColorScheme(/*@START_MENU_TOKEN@*/.light/*@END_MENU_TOKEN@*/)
+            .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
 
         }
         
